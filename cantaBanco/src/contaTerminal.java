@@ -14,8 +14,7 @@ public class contaTerminal{
         int numero = scanner.nextInt();
 
         System.out.println("Digite o numero da sua agencia");
-        int agencia = scanner.nextInt();
-
+        String agencia = scanner.next();
 
         System.out.println("Digite seu nome completo");
 
